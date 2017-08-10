@@ -7,3 +7,7 @@
 - [Lesson 6: Comparisons and Conditionals](http://tinyurl.com/bgcdallas2017L6)
 - [Lesson 7: Lists](http://tinyurl.com/bgcdallas2017L7)
 - [Lesson 8: Functions](http://tinyurl.com/bgcdallas2017L8)
+
+# Links
+- [Classroom on Repl.it](http://tinyurl.com/bgcdfw)
+- [Daily Survey](http://tinyurl.com/BGCDallas2017)
