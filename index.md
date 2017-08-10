@@ -11,3 +11,4 @@
 # Links
 - [Classroom on Repl.it](http://tinyurl.com/bgcdfw)
 - [Daily Survey](http://tinyurl.com/BGCDallas2017)
+- [More Turtle Commands](http://www.eg.bucknell.edu/~hyde/Python3/TurtleDirections.html)
