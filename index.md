@@ -2,6 +2,6 @@
 
 
 - [Special Characters](http://tinyurl.com/bgcdallas2017L0)
-- [Comparisons and Conditionals](http://tinyurl.com/bgcdallas2017L6)
-- [Raspberry Pi Camera]()
+- [Comparisons and Conditionals](http://tinyurl.com/bgcdallas2017L5)
+- [Raspberry Pi Camera](htpp://winonatong.github.io/bgcbayarea2018/camera.html)
 
