@@ -3,5 +3,5 @@
 
 - [Special Characters](http://tinyurl.com/bgcdallas2017L0)
 - [Comparisons and Conditionals](http://tinyurl.com/bgcdallas2017L5)
-- [Raspberry Pi Camera](camera.html)
+- [Raspberry Pi Camera](camera.html) https://tinyurl.com/bgcpicamera
 
